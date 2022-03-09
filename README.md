@@ -1,4 +1,4 @@
-# Churrasc-metro
+# Churrascômetro
 ### Que tal calcular o tanto de carne, cerveja e bebidas para um churrasco ficar ideal?
 
 ![fotochurras](https://user-images.githubusercontent.com/84913052/157377871-125f42cc-5202-4b55-92db-c3e4fb2d15fc.png)
