@@ -6,6 +6,8 @@
 ## Objetivo
 Calcular com facilidade o quanto de recursor são necessários para um bom churrasco.
 
+![churrasgif](https://user-images.githubusercontent.com/84913052/157379864-e45173f5-36f7-42f6-bfff-1eca2116b1c8.gif)
+
 ## Tecnologias
 JS,HTML,CSS
 
